@@ -1,1 +1,0 @@
-Buffer di sekitar garis: Garis dengan jarak buffer 1
